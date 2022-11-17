@@ -1,6 +1,6 @@
 ---
 title: Home
-nav: 2022
+nav: 2023
 youtubeId: ljQqFFJB-hI
 ---
 
@@ -26,11 +26,13 @@ The workshop aims to promote a common ground among the relevant scientific commu
 
 **Previous Workshops**
 
+[Lifelong Learning and Personalization in Long-Term Human-Robot Interaction (LEAP-HRI), HRI 2022](https://leap-hri.github.io/2022)
+
 [Lifelong Learning and Personalization in Long-Term Human-Robot Interaction (LEAP-HRI), HRI 2021](https://leap-hri.github.io/2021)
 
 [Lifelong Learning for Long-term Human-Robot Interaction (LL4LHRI), RO-MAN 2020](https://sites.google.com/view/ll4lhri2020)
 
 [Personalization in Long-Term Human-Robot Interaction (PLOT-HRI19), HRI 2019](https://longtermpersonalizationhri.github.io)
 
-<!-- {% include figure.html img="hri2022-header-logo.png" alt="intro image here" width="100%" %} -->
+{% include figure.html img="hri2023.png" alt="intro image here" width="100%" %}
 Hosted by [Github Pages](https://pages.github.com/), {{ site.pub_year }}. 
