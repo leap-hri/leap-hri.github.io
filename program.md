@@ -1,8 +1,25 @@
 ---
 title: Program
-nav: 2022
+nav: 2023
 ---
 
+For encouraging hybrid participation from Asia, Europe, and USA to the workshop, we propose a timeline that starts at 14:00 CET, which corresponds to 9:00 EST and 22:00 JST. The proposed schedule will be re-arranged according to the format of the conference and the number of submissions.
+
+
+** Tentative Program * (TBC)
+
+**14:00 - 14:05** Opening remarks
+**14:05 - 14:45** Keynote #1
+**14:45 - 15:15** Full paper talks #1 (3 papers)
+**15:15 - 15:30** Break-out session
+**15:30 - 15:45** Coffee break
+**15:45 - 16:25** Keynote #2
+**16:25 - 16:45** Full paper talks #2 (2 papers)
+**16:45 - 17:45** Debate
+**17:45 - 17:55** Discussion
+**17:55 - 18:00** Closing remarks
+
+<!--
 **15:00-15:10**: Opening remarks, _coordinator: Bahar Irfan_
 
 **15:10-15:50**: Keynote: "Personalised Human-Robot Interactions in Socially Assistive Scenarios", **Ginevra Castellano**, _chair: Hatice Gunes_
@@ -29,4 +46,4 @@ nav: 2022
 
 **17:45-18:00**: Break-out session, _chair: German I. Parisi_
 
-**18:00-19:00**: Panel, _moderator: Bahar Irfan, chair: Samuel Spaulding_
+**18:00-19:00**: Panel, _moderator: Bahar Irfan, chair: Samuel Spaulding_ -->
