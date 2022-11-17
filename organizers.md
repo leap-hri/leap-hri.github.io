@@ -1,6 +1,6 @@
 ---
 title: Organizers
-nav: 2022
+nav: 2023
 ---
 
 ## Organizing Committee
