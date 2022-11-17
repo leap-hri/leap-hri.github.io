@@ -13,9 +13,9 @@ youtubeId: ljQqFFJB-hI
 
 <!-- [Register for HRI 2023 here!](https://humanrobotinteraction.org/2023/) -->
 
-{% include youtubePlayer.html id=page.youtubeId %}
+<!-- {% include youtubePlayer.html id=page.youtubeId %} -->
 
-<!-- {% include figure.html img="promos-main.png" alt="banner image" width="100%" %} -->
+{% include figure.html img="promos-main.png" alt="banner image" width="100%" %}
 
 Adaptation and personalization are critical elements when modeling robot behaviors toward users in real-world settings. Multiple aspects of the user need to be taken into consideration in order to personalize the interaction, such as their personality, emotional state, intentions, and actions. While this information can be obtained a priori through self-assessment questionnaires or in real-time during the interaction through user profiling, behaviors and preferences can evolve in long-term interactions. Thus, gradually learning new concepts or skills (i.e., “lifelong learning”) both for the users and the environment is crucial to adapt to new situations and personalize interactions with the aim of maintaining their interest and engagement.
 In addition, adapting to individual differences autonomously through lifelong learning allows for inclusive interactions with all users with varying capabilities and backgrounds.
