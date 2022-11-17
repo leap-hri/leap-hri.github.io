@@ -5,19 +5,22 @@ youtubeId: ljQqFFJB-hI
 ---
 
 
-## Lifelong Learning and Personalization in Long-Term Human-Robot Interaction (LEAP-HRI) 
+## Lifelong Learning and Personalization in Long-Term Human-Robot Interaction (LEAP-HRI): Adaptivity for All
 
-**When**: March 7, 2022. 15:00-19:00 Central European Time (CET)
+**When**: March 13, 2023. 15:00-19:00 Central European Time (CET)
 
-**Where**: Virtual, as part of the 16th ACM/IEEE International Conference on Human-Robot Interaction (HRI 2022)
+**Where**: Hybrid, as part of the 16th ACM/IEEE International Conference on Human-Robot Interaction (HRI 2023)
 
-<!-- [Register for HRI 2022 here!](https://humanrobotinteraction.org/2022/registration/) -->
+<!-- [Register for HRI 2023 here!](https://humanrobotinteraction.org/2023/) -->
 
 {% include youtubePlayer.html id=page.youtubeId %}
 
 <!-- {% include figure.html img="promos-main.png" alt="banner image" width="100%" %} -->
 
-While most research in Human-Robot Interaction (HRI) studies one-off or short-term interactions in a laboratory setting, a growing body of research focuses on breaking through these boundaries and studying long-term interactions that arise through deployments of robots “in the wild”. Under these conditions, robots need to incrementally learn new concepts or abilities (i.e., “lifelong learning”) to adapt their behaviors within new situations and personalize their interactions with users to maintain their interest and engagement. The second edition of the “Lifelong Learning and Personalization in Long- Term Human-Robot Interaction (LEAP-HRI)” workshop aims to address the developments and challenges in these areas and create a medium for researchers to share their work in progress, present preliminary results, learn from the experience of invited researchers and discuss relevant topics. The workshop focuses on studies on lifelong learning and adaptivity to users, context, environment, and tasks in long-term interactions in a variety of fields (e.g., education, rehabilitation, elderly care, collaborative tasks, service and companion robots).
+Adaptation and personalization are critical elements when modeling robot behaviors toward users in real-world settings. Multiple aspects of the user need to be taken into consideration in order to personalize the interaction, such as their personality, emotional state, intentions, and actions. While this information can be obtained a priori through self-assessment questionnaires or in real-time during the interaction through user profiling, behaviors and preferences can evolve in long-term interactions. Thus, gradually learning new concepts or skills (i.e., “lifelong learning”) both for the users and the environment is crucial to adapt to new situations and personalize interactions with the aim of maintaining their interest and engagement.
+In addition, adapting to individual differences autonomously through lifelong learning allows for inclusive interactions with all users with varying capabilities and backgrounds.
+The third edition1 of the “Lifelong Learning and Personalization in Long-Term Human-Robot Interaction (LEAP-HRI)” workshop aims to gather and present interdisciplinary insights from a variety of fields, such as education, rehabilitation, elderly care, service and companion robots, for lifelong robot learning and adaptation to users, context, environment, and activities in long-term interactions.
+The workshop aims to promote a common ground among the relevant scientific communities through invited talks and indepth discussions via paper presentations, break-out groups, and a scientific debate. In line with the HRI 2023 conference theme, “HRI for all”, our workshop theme is “adaptivity for all” to encourage HRI theories, methods, designs, and studies for lifelong learning, personalization, and adaptation that aims to promote inclusion and diversity in HRI.
 
 {% include figure.html img="LEAP-HRI-Promos-main-lowres.png" alt="" width="100%"%}
 
