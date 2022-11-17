@@ -7,7 +7,7 @@ youtubeId: ljQqFFJB-hI
 
 ## Lifelong Learning and Personalization in Long-Term Human-Robot Interaction (LEAP-HRI): Adaptivity for All
 
-**When**: March 13, 2023. 15:00-19:00 Central European Time (CET)
+**When**: March 13, 2023. 14:00-18:00 Central European Time (CET)
 
 **Where**: Hybrid, as part of the 18th ACM/IEEE International Conference on Human-Robot Interaction (HRI 2023)
 
