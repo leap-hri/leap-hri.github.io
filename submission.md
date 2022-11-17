@@ -1,31 +1,38 @@
 ---
 title: Submission
-nav: 2022
+nav: 2023
 ---
 
-**Date:** March 7, 2022 (Morning session)
+**Date:** March 13, 2023 (Afternoon session)
 
-**Location:** Virtual, as part of the 17th ACM/IEEE International Conference on Human-Robot Interaction (HRI 2022)
+**Location:** Hybrid, as part of the 18th ACM/IEEE International Conference on Human-Robot Interaction (HRI 2022)
 
-**Manuscript submission**: [https://easychair.org/conferences/?conf=leaphri2022](https://easychair.org/conferences/?conf=leaphri2022)
+**Manuscript submission**: [https://easychair.org/conferences/?conf=leaphri2023](https://easychair.org/conferences/?conf=leaphri2023)
 
 **Questions:** aditiramachandran AT gmail.com
 
 
 ## Important Dates
 
-- **Early-bird submission deadline:** January 23, 2022
+- **Call for papers:** November 25, 2022
+- **Early-bird submission deadline:** January 15, 2023
+- **Early-bird notification of acceptance:** January 30, 2023
+- **General submission deadline:** February 12, 2023
+- **General notification of acceptance:** February 27, 2023
+- **Camera-ready deadline:** March 6, 2023
+
+
+<!--- **Early-bird submission deadline:** January 23, 2022
 - **Early-bird notification of acceptance:** January 30, 2022
 - **General submission deadline:** February 14, 2022
 - **General notification of acceptance:** February 24, 2022
-- **Camera-ready deadline:** March 3, 2022
+- **Camera-ready deadline:** March 3, 2022-->
 
 
 ## Submission Guidelines
 
-
-
-We invite papers of 3-4 pages (plus additional pages for references and appendices), including work in progress containing preliminary results, technical reports, case studies, surveys and state-of-the-art research in lifelong learning and personalization in a variety of fields (e.g., education, rehabilitation, elderly care, collaborative tasks, customer-oriented service and companion robots) and long-term studies. Papers will be reviewed for their relevance, novelty, and scientific and technical soundness.
+We invite papers of 3-4 pages (plus additional pages for references and appendices), including work in progress containing preliminary results, technical reports, case studies, surveys and state-ofthe- art research in lifelong learning and personalization in a variety of fields (e.g., education, rehabilitation, elderly care, collaborative tasks, customer-oriented service and companion robots) and longterm studies. We will encourage submissions to address the theme of the workshop “Adaptivity for All”. 
+Papers will be reviewed for their relevance, novelty, and scientific and technical soundness. The submissions will be asked to follow the guidelines established by HRI2023.
 
 Submissions do not need to be anonymized for review. All manuscripts must be written in English and submitted electronically in PDF format via EasyChair (link given at the top). The accepted papers will be published on the workshop website, as well as in arXiv.
 
@@ -40,6 +47,7 @@ We encourage researchers and students from HRI, robotics, cognitive science, reh
 The workshop welcomes contributions across a wide range of topics including, but not limited to:
 
 - Lifelong personalization and/or adaptation
+- Lifelong learning or personalization for inclusivity in HRI
 - Modelling user(s) and/or user behavior(s) in multi-session/long-term HRI
 - Modelling robot behavior in multi-session/long-term HRI
 - Modelling context in multi-session/long-term HRI
