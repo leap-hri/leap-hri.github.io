@@ -1,6 +1,6 @@
 ---
 title: Speakers
-nav: 2022
+nav: 2023
 ---
 
 ## Invited Speakers
