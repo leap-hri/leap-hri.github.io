@@ -4,7 +4,7 @@ nav: 2023
 youtubeId: ljQqFFJB-hI
 ---
 
-< div aligh = "giustify">
+
 
 ## Lifelong Learning and Personalization in Long-Term Human-Robot Interaction (LEAP-HRI): Adaptivity for All
 
@@ -34,6 +34,6 @@ The workshop aims to promote a common ground among the relevant scientific commu
 
 [Personalization in Long-Term Human-Robot Interaction (PLOT-HRI19), HRI 2019](https://longtermpersonalizationhri.github.io)
 
-</div>
+
 {% include figure.html img="hri2023.png" alt="intro image here" width="100%" %}
 Hosted by [Github Pages](https://pages.github.com/), {{ site.pub_year }}. 
