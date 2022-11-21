@@ -8,16 +8,26 @@ For encouraging hybrid participation from Asia, Europe, and USA to the workshop,
 
 ** Tentative Program ** (TBC)
 
-**14:00 - 14:05** Opening remarks_
-**14:05 - 14:45** Keynote #1_
-**14:45 - 15:15** Full paper talks #1 (3 papers)_
-**15:15 - 15:30** Break-out session_
-**15:30 - 15:45** Coffee break_
-**15:45 - 16:25** Keynote #2_
-**16:25 - 16:45** Full paper talks #2 (2 papers)_
-**16:45 - 17:45** Debate_
-**17:45 - 17:55** Discussion_
-**17:55 - 18:00** Closing remarks_
+**14:00 - 14:05** Opening remarks
+
+**14:05 - 14:45** Keynote #1
+
+**14:45 - 15:15** Full paper talks #1 (3 papers)
+
+**15:15 - 15:30** Break-out session
+
+**15:30 - 15:45** Coffee break
+
+**15:45 - 16:25** Keynote #2
+
+**16:25 - 16:45** Full paper talks #2 (2 papers)
+
+**16:45 - 17:45** Debate
+
+**17:45 - 17:55** Discussion
+
+**17:55 - 18:00** Closing remarks
+
 
 <!--
 **15:00-15:10**: Opening remarks, _coordinator: Bahar Irfan_
