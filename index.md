@@ -35,5 +35,5 @@ The workshop aims to promote a common ground among the relevant scientific commu
 [Personalization in Long-Term Human-Robot Interaction (PLOT-HRI19), HRI 2019](https://longtermpersonalizationhri.github.io)
 
 
-{% include figure.html img="hri2023.png" alt="intro image here" width="100%" %}
+{% include figure.html img="hri2023_logo.png" alt="intro image here" width="100%" %}
 Hosted by [Github Pages](https://pages.github.com/), {{ site.pub_year }}. 
