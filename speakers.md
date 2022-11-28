@@ -10,7 +10,7 @@ nav: 2023
 KEYNOTES
 
 - [Pablo Barros](Pablo.Barros@sony.com), *Sony R&D Center, Brussels*
-{% include figure.html img="PabloBarros.pjpg" alt="" width="200px" height="200px" %}
+{% include figure.html img="PabloBarros.jpg" alt="" width="200px" height="200px" %}
 Pablo Barros is a machine learning scientist working at Sony R & D Center in Brussels, focusing on physiological and social signal processing applied to mental health solutions. Pablo holds a Ph.D. degree in computer science from the University of Hamburg, in Germany, and over the last years, has worked on different projects involving social robotics and affective computing. In particular, his research focuses on social perception, in particular facial expression recognition, but also on modelling, based on artificial intelligence, the role of social agents while interacting with humans.
  
 
