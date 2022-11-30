@@ -5,7 +5,7 @@ nav: 2023
 
 **Date:** March 13, 2023 (Afternoon session)
 
-**Location:** Hybrid, as part of the 18th ACM/IEEE International Conference on Human-Robot Interaction (HRI 2022)
+**Location:** Hybrid, as part of the 18th ACM/IEEE International Conference on Human-Robot Interaction (HRI 2023)
 
 **Manuscript submission**: [https://easychair.org/conferences/?conf=leaphri2023](https://easychair.org/conferences/?conf=leaphri2023)
 
