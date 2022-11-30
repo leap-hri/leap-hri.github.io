@@ -36,9 +36,9 @@ Papers will be reviewed for their relevance, novelty, and scientific and technic
 
 Submissions do not need to be anonymized for review. All manuscripts must be written in English and submitted electronically in PDF format via EasyChair (link given at the top). The accepted papers will be published on the workshop website, as well as in arXiv.
 
-Authors should use the IEEE template files (US letter): [https://www.ieee.org/conferences/publishing/templates.html](https://www.ieee.org/conferences/publishing/templates.html)
+Authors should use ACM SIG format (“sigconf”, double column) template files (US letter): https://www.acm.org/publications/proceedings-template
 
-Overleaf template: [https://www.overleaf.com/latex/templates/ieee-conference-template/grfzhhncsfqn](https://www.overleaf.com/latex/templates/ieee-conference-template/grfzhhncsfqn)
+Overleaf template (use “sigconf” as document class): https://www.overleaf.com/latex/templates/acm-conference-proceedings-primary-article-template/wbvnghjbzwpc
 
 ## Topics of Interest
 
