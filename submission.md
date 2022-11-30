@@ -9,7 +9,7 @@ nav: 2023
 
 **Manuscript submission**: [https://easychair.org/conferences/?conf=leaphri2023](https://easychair.org/conferences/?conf=leaphri2023)
 
-**Questions:** aditiramachandran AT gmail.com
+**Questions:** hatice.gunes@cl.cam.ac.uk
 
 
 ## Important Dates
