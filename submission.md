@@ -14,7 +14,7 @@ nav: 2023
 
 ## Important Dates
 
-- **Call for papers:** November 25, 2022
+- **Call for papers:** 
 - **Early-bird submission deadline:** January 15, 2023
 - **Early-bird notification of acceptance:** January 30, 2023
 - **General submission deadline:** February 12, 2023
