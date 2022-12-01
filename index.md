@@ -22,7 +22,7 @@ The third edition1 of the “Lifelong Learning and Personalization in Long-Term 
 The workshop aims to promote a common ground among the relevant scientific communities through invited talks and indepth discussions via paper presentations, break-out groups, and a scientific debate. In line with the HRI 2023 conference theme, “HRI for all”, our workshop theme is “adaptivity for all” to encourage HRI theories, methods, designs, and studies for lifelong learning, personalization, and adaptation that aims to promote inclusion and diversity in HRI.
 
 
-{% include figure.html img="LEAP-HRI-2023-presentation_new.pdf" alt="" width="100%"%}
+{% include figure.html img="LEAP-HRI-2023-presentation_new.pdf" alt="" width="100%" %}
 <!--{% include figure.html img="promos-main.png" alt="banner image" width="100%" %} -->
 
 **Previous Workshops**
@@ -37,7 +37,8 @@ The workshop aims to promote a common ground among the relevant scientific commu
 
 
 **Aknowledgements**
-This event is supported by the Adaptive Robotic EQ for Well-being (ARoEQ) Project. {% include figure.html img="UKRI_EPSRC.jpeg" alt="" width="50%"%}
+This event is supported by the Adaptive Robotic EQ for Well-being (ARoEQ) Project. 
+{% include figure.html img="UKRI_EPSRC.jpeg" alt="" width="50%" %}
 
 {% include figure.html img="hri2023_logo.png" alt="intro image here" width="100%" %}
 Hosted by [Github Pages](https://pages.github.com/), {{ site.pub_year }}. 
