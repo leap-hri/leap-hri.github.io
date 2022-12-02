@@ -29,6 +29,7 @@ Hatice Gunes is a Professor of Affective Intelligence and Robotics (AFAR) and th
 </div>
 
 ## Sponsors
+This event is supported by the Adaptive Robotic EQ for Well-being (ARoEQ) Project. 
 <table>
     <tr>
     <td> <img src="images/epsrc.png" alt="EPSRC" style="width: 150px;"/> </td>    
