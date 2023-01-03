@@ -7,7 +7,7 @@ nav: 2023
 
 <div class="id-pics" markdown="1">
 
-- [Bahar Irfan](https://www.baharirfan.com/), *EKTH Royal Institute of Technology (Sweden), birfan@kth.se*. 
+- [Bahar Irfan](https://www.baharirfan.com/), *KTH Royal Institute of Technology (Sweden), birfan@kth.se*. 
 {% include figure.html img="bahar-irfan.jpg" alt="Bahar Irfan" width="200px" height="200px" %}
 Bahar Irfan is a Postdoctoral Researcher and Digital Futures fellow at KTH Royal Institute of Technology. Her research focuses on creating personal robots that can continually learn and adapt to assist in everyday life. Previously, she was a Research and Development Associate at Evinoks Service Equipment Industry and Commerce Inc., developing customizable software for industrial robots, virtual reality applications, and smart buffets. Prior to that, she worked as an R&D Lab Associate at Disney Research Los Angeles on emotional language adaptation in multiparty interactions.
 She has a diverse background in robotics, from personalization in long-term human-robot interaction during her PhD at the University of Plymouth and SoftBank Robotics Europe as a Marie Skłodowska-Curie Actions fellow to user-centred task planning for household robotics during her MSc in computer engineering, and building robots for BSc in mechanical engineering at Boğaziçi University.
