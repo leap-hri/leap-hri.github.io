@@ -3,7 +3,7 @@ title: Submission
 nav: 2023
 ---
 
-**Date:** March 13, 2023 (Afternoon session)
+**Date:** March 13, 2023, 14:00 - 18:00 CET
 
 **Location:** Hybrid, as part of the 18th ACM/IEEE International Conference on Human-Robot Interaction (HRI 2023)
 
@@ -14,12 +14,11 @@ nav: 2023
 
 ## Important Dates
 
-- **Call for papers:** 
-- **Early-bird submission deadline:** January 15, 2023
-- **Early-bird notification of acceptance:** January 30, 2023
-- **General submission deadline:** February 12, 2023
-- **General notification of acceptance:** February 27, 2023
-- **Camera-ready deadline:** March 6, 2023
+- **Early-bird submission deadline:** January 22, 2023
+- **Early-bird notification of acceptance:** January 31, 2023
+- **General submission deadline:** February 19, 2023
+- **General notification of acceptance:** February 28, 2023
+- **Camera-ready deadline:** March 9, 2023
 
 
 <!--- **Early-bird submission deadline:** January 23, 2022
@@ -34,11 +33,11 @@ nav: 2023
 We invite papers of 3-4 pages (plus additional pages for references and appendices), including work in progress containing preliminary results, technical reports, case studies, surveys and state-ofthe- art research in lifelong learning and personalization in a variety of fields (e.g., education, rehabilitation, elderly care, collaborative tasks, customer-oriented service and companion robots) and longterm studies. We will encourage submissions to address the theme of the workshop “Adaptivity for All”. 
 Papers will be reviewed for their relevance, novelty, and scientific and technical soundness. The submissions will be asked to follow the guidelines established by HRI2023.
 
-Submissions do not need to be anonymized for review. All manuscripts must be written in English and submitted electronically in PDF format via EasyChair (link given at the top). The accepted papers will be published on the workshop website, as well as in arXiv.
+Submissions do not need to be anonymized for review. All manuscripts must be written in English and submitted electronically in PDF format via [EasyChair](https://easychair.org/conferences/?conf=leaphri2023). The accepted papers will be published on the workshop website, as well as in arXiv.
 
-Authors should use ACM SIG format (“sigconf”, double column) template files (US letter): https://www.acm.org/publications/proceedings-template
+Authors should use ACM SIG format (“sigconf”, double column) template files (US letter): [https://www.acm.org/publications/proceedings-template](https://www.acm.org/publications/proceedings-template)
 
-Overleaf template (use “sigconf” as document class): https://www.overleaf.com/latex/templates/acm-conference-proceedings-primary-article-template/wbvnghjbzwpc
+Overleaf template (use “sigconf” as document class): [https://www.overleaf.com/latex/templates/acm-conference-proceedings-primary-article-template/wbvnghjbzwpc](https://www.overleaf.com/latex/templates/acm-conference-proceedings-primary-article-template/wbvnghjbzwpc)
 
 ## Topics of Interest
 
