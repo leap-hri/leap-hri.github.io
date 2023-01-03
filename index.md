@@ -10,7 +10,7 @@ youtubeId: ljQqFFJB-hI
 
 **When**: March 13, 2023. 14:00-18:00 Central European Time (CET)
 
-**Where**: Hybrid, as part of the 18th ACM/IEEE International Conference on Human-Robot Interaction (HRI 2023)
+**Where**: Hybrid (in Stockholm and online), as part of the 18th ACM/IEEE International Conference on Human-Robot Interaction (HRI 2023)
 
 <!-- [Register for HRI 2023 here!](https://humanrobotinteraction.org/2023/) -->
 
