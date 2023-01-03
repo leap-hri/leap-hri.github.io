@@ -5,7 +5,7 @@ nav: 2023
 
 **Date:** March 13, 2023, 14:00 - 18:00 CET
 
-**Location:** Hybrid, as part of the 18th ACM/IEEE International Conference on Human-Robot Interaction (HRI 2023)
+**Location:** Hybrid (in Stockholm and online), as part of the 18th ACM/IEEE International Conference on Human-Robot Interaction (HRI 2023)
 
 **Manuscript submission**: [https://easychair.org/conferences/?conf=leaphri2023](https://easychair.org/conferences/?conf=leaphri2023)
 
