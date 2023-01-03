@@ -20,6 +20,7 @@ nav: 2023
 - **General notification of acceptance:** February 28, 2023
 - **Camera-ready deadline:** March 9, 2023
 
+All deadlines are at 23:59 Anywhere on Earth time.
 
 <!--- **Early-bird submission deadline:** January 23, 2022
 - **Early-bird notification of acceptance:** January 30, 2022
