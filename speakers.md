@@ -33,4 +33,8 @@ Since 2021, Dr. Séverin Lemaignan has been Senior Scientist at Barcelona-based 
 {% include figure.html img="EricEaton.jpeg" alt="" width="200px" height="200px" %}
 Eric Eaton is a research associate professor in the Department of Computer and Information Science at the University of Pennsylvania, with a secondary appointment in Biomedical and Health Informatics at Children’s Hospital of Philadelphia. He directs the lifelong machine learning research group within the General Robotics, Automation, Sensing, and Perception (GRASP) lab at Penn. His research focuses on developing versatile AI systems that can learn multiple tasks over a lifetime of experience in complex environments, transfer learned knowledge to rapidly acquire new abilities, and collaborate effectively with humans and other agents through interaction. This work spans a number of topics, including lifelong and continual learning, transfer learning, deep learning, reinforcement learning, machine perception, and interactive AI.  Dr. Eaton’s research applies these methods to problems in service robotics and precision medicine.
 
+- [Karol Hausman](https://karolhausman.github.io/), *Google Brain and Stanford University*
+{% include figure.html img="KarolHausman.jpg" alt="" width="200px" height="200px" %}
+Karol Hausman is a Staff Research Scientist at Google Brain and an Adjunct Professor at Stanford working on robotics and machine learning. He is interested in enabling robots to acquire general-purpose skills with minimal supervision in the real world. He received his PhD in CS from the University of Southern California and Masters from the Technical University Munich. When he is not debugging robots at Google, he teaches Deep RL class at Stanford.
+
 </div>
