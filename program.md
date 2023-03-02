@@ -7,6 +7,7 @@ For encouraging hybrid participation from Asia, Europe, and USA to the workshop,
 
 
 ** Final Program **
+
 **14:00 – 14:05** Opening remarks
 
 **14:05 – 14:35** Keynote: Pablo Barros, “How can we overcome feature-based and contextual biases when learning facial expression representations?”
