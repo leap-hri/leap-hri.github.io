@@ -8,14 +8,23 @@ For encouraging hybrid participation from Asia, Europe, and USA to the workshop,
 
 ** Final Program **
 **14:00 – 14:05** Opening remarks
+
 **14:05 – 14:35** Keynote: Pablo Barros, “How can we overcome feature-based and contextual biases when learning facial expression representations?”
+
 **14:35 – 15:05** Full paper talks
+
 **15:05 – 15:25** Break-out session
+
 **15:25 – 16:55** Keynote: Dorsa Sadigh
+
 **15:55 – 16:25** Coffee break
+
 **16:25 – 16:45** Full paper talks
+
 **16:45 – 17:45** Debate, “It is more impactful to focus on building robots that personalize effectively to users in a constricted task or application than to build more general-purpose robots.”
+
 **17:45 – 17:55** Discussion
+
 **17:55 – 18:00** Closing remarks
 
 
