@@ -5,7 +5,7 @@ nav: 2023
 
 ## Invited Speakers
 
-<div class="id-pics" markdown="1" style=’text-align:justify’>
+<div class="id-pics" markdown="1">
 
 **KEYNOTES**
 
