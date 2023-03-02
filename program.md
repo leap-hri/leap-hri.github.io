@@ -6,13 +6,25 @@ nav: 2023
 For encouraging hybrid participation from Asia, Europe, and USA to the workshop, we propose a timeline that starts at 14:00 CET, which corresponds to 9:00 EST and 22:00 JST. The proposed schedule will be re-arranged according to the format of the conference and the number of submissions.
 
 
-** Tentative Program ** (TBC)
+** Final Program **
+**14:00 – 14:05** Opening remarks
+**14:05 – 14:35** Keynote: Pablo Barros, “How can we overcome feature-based and contextual biases when learning facial expression representations?”
+**14:35 – 15:05** Full paper talks
+**15:05 – 15:25** Break-out session
+**15:25 – 16:55** Keynote: Dorsa Sadigh
+**15:55 – 16:25** Coffee break
+**16:25 – 16:45** Full paper talks
+**16:45 – 17:45** Debate, “It is more impactful to focus on building robots that personalize effectively to users in a constricted task or application than to build more general-purpose robots.”
+**17:45 – 17:55** Discussion
+**17:55 – 18:00** Closing remarks
 
+
+<!--
 **14:00 - 14:05** Opening remarks
 
-**14:05 - 14:45** Keynote #1
+**14:05 - 14:35** Keynote: Pablo Barros, “How can we overcome feature-based and contextual biases when learning facial expression representations?”
 
-**14:45 - 15:15** Full paper talks #1 (3 papers)
+**14:35 - 15:15** Full paper talks #1 (3 papers)
 
 **15:15 - 15:30** Break-out session
 
@@ -28,8 +40,6 @@ For encouraging hybrid participation from Asia, Europe, and USA to the workshop,
 
 **17:55 - 18:00** Closing remarks
 
-
-<!--
 **15:00-15:10**: Opening remarks, _coordinator: Bahar Irfan_
 
 **15:10-15:50**: Keynote: "Personalised Human-Robot Interactions in Socially Assistive Scenarios", **Ginevra Castellano**, _chair: Hatice Gunes_
