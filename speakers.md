@@ -19,7 +19,7 @@ Pablo Barros is a machine learning scientist working at Sony R & D Center in Bru
 - [Dorsa Sadigh](https://dorsa.fyi/), *Stanford University (USA)*
 {% include figure.html img="dorsa.png" alt="" width="200px" height="200px" %}
 Dorsa Sadigh is an assistant professor in Computer Science and Electrical Engineering at Stanford University.  Her research interests lie in the intersection of robotics, learning, and control theory. Specifically, she is interested in developing algorithms for safe and adaptive human-robot and human-AI interaction. Dorsa received her doctoral degree in Electrical Engineering and Computer Sciences (EECS) from UC Berkeley in 2017, and received her bachelor’s degree in EECS from UC Berkeley in 2012.  She is awarded the Sloan Fellowship, NSF CAREER, ONR Young Investigator Award, AFOSR Young Investigator Award, DARPA Young Faculty Award, Okawa Foundation Fellowship, MIT TR35, and the IEEE RAS Early Academic Career Award.
-**Title of the Talk:** It is more impactful to focus on building robots that personalize effectively to users in a constricted task or application than to build more general-purpose robots.
+**Title of the Talk:**
 **Abstract:** 
 
                 
