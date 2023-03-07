@@ -16,7 +16,7 @@ For encouraging hybrid participation from Asia, Europe, and USA to the workshop,
 
 **15:05 – 15:25** Break-out session
 
-**15:25 – 16:55** Keynote: Dorsa Sadigh
+**15:25 – 16:55** Keynote: Dorsa Sadigh, "Aligning Robots with Human Preferences"
 
 **15:55 – 16:25** Coffee break
 
