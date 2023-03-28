@@ -22,5 +22,5 @@ While most of the research in Human-Robot Interaction (HRI) focus on short-term 
 
 The workshop extends the topics covered in the "Personalization in Long-Term Human-Robot Interaction (PLOT-HRI)" Workshop at the 2019 14th ACM/IEEE International Conference on Human-Robot Interaction (HRI) and "Lifelong Learning for Long-term Human-Robot Interaction (LL4LHRI)" Workshop at the 29th IEEE International Symposium on Robot and Human Interactive Communication (RO-MAN), and focuses on studies on lifelong learning and adaptivity to users, context, environment, and tasks in long-term interactions in a variety of fields (e.g., education, rehabilitation, elderly care, collaborative tasks, customer-oriented service and companion robots).
 
-{% include figure.html img="hri-2021-horizontal.png" alt="intro image here" width="100%" %}
+<!-- {% include figure.html img="hri-2021-horizontal.png" alt="" width="100%" %} -->
 Hosted by [Github Pages](https://pages.github.com/), {{ site.pub_year }}. 
