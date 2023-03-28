@@ -1,7 +1,7 @@
 ---
 title: Home
 nav: 2023
-youtubeId: ljQqFFJB-hI
+youtubeId: F2MP-1Yz4ZM
 ---
 
 
@@ -14,7 +14,7 @@ youtubeId: ljQqFFJB-hI
 
 <!-- [Register for HRI 2023 here!](https://humanrobotinteraction.org/2023/) -->
 
-<!-- {% include youtubePlayer.html id=page.youtubeId %} -->
+{% include youtubePlayer.html id=page.youtubeId %}
 
 Adaptation and personalization are critical elements when modeling robot behaviors toward users in real-world settings. Multiple aspects of the user need to be taken into consideration in order to personalize the interaction, such as their personality, emotional state, intentions, and actions. While this information can be obtained a priori through self-assessment questionnaires or in real-time during the interaction through user profiling, behaviors and preferences can evolve in long-term interactions. Thus, gradually learning new concepts or skills (i.e., “lifelong learning”) both for the users and the environment is crucial to adapt to new situations and personalize interactions with the aim of maintaining their interest and engagement.
 In addition, adapting to individual differences autonomously through lifelong learning allows for inclusive interactions with all users with varying capabilities and backgrounds.
@@ -22,7 +22,7 @@ The third edition1 of the “Lifelong Learning and Personalization in Long-Term 
 The workshop aims to promote a common ground among the relevant scientific communities through invited talks and indepth discussions via paper presentations, break-out groups, and a scientific debate. In line with the HRI 2023 conference theme, “HRI for all”, our workshop theme is “adaptivity for all” to encourage HRI theories, methods, designs, and studies for lifelong learning, personalization, and adaptation that aims to promote inclusion and diversity in HRI.
 
 
-{% include figure.html img="LEAP-HRI-2023-presentation-3-1.png" alt="" width="100%" %}
+<!--{% include figure.html img="LEAP-HRI-2023-presentation-3-1.png" alt="" width="100%" %} -->
 <!--{% include figure.html img="promos-main.png" alt="banner image" width="100%" %} -->
 
 **Previous Workshops**
