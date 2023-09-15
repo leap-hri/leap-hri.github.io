@@ -101,6 +101,13 @@ section.smaller {
 	width: 220px;
 }
 
+.profpic .role {
+  text-align: center;
+  font-size: 15px;
+  height: 60px;
+  color: #ff8c00;
+}
+
 .profpic {
 	/*min-width: 14%;*/
 	margin: auto;
