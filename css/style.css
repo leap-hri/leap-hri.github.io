@@ -150,7 +150,8 @@ section.smaller {
   text-align: center;
   font-size: 16px;
   height: 10px;
-  margin-top: 5px;
+  margin-top: auto;
+  margin-bottom: 5px;
 }
 
 .profpic .role {
