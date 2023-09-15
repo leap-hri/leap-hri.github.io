@@ -133,7 +133,7 @@ section.smaller {
 
 .profpic .profname {
   text-align: center;
-  font-size: 16px;
+  font-size: 18px;
   height: 20px;
   margin-top: 15px;
   margin-bottom: 5px;
@@ -145,13 +145,13 @@ section.smaller {
 }
 .profpic .institution {
   text-align: center;
-  font-size: 15px;
-  height: 20px;
+  font-size: 16px;
+  height: 25px;
 }
 
 .profpic .role {
   text-align: center;
-  font-size: 15px;
+  font-size: 16px;
   height: 60px;
   color: #ff8c00;
 }
