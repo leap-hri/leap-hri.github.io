@@ -108,10 +108,13 @@ section.smaller {
 }
 
 .profpic {
-	/*min-width: 14%;*/
-	margin: auto;
-	padding-bottom: 10px;
-	width: 220px;
+  margin: auto;
+  padding-bottom: 10px;
+  width: 220px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center; /* Vertically center-align content */
+  align-items: center; /* Horizontally center-align content */
 }
 
 .profpic img {
