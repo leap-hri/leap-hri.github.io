@@ -160,7 +160,6 @@ section.smaller {
   font-size: 16px;
   height: 20px;
   color: #ff8c00;
-  line-height: 20px; /* Set to match height for vertical centering */
 }
 
 .paperlink img:hover {
