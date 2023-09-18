@@ -141,8 +141,6 @@ section.smaller {
   text-align: center;
   font-size: 16px;
   height: 10px;
-  margin-top: 5px;
-  margin-bottom: 5px;
 }
 
 .profpic .role {
@@ -150,7 +148,6 @@ section.smaller {
   font-size: 16px;
   height: 60px;
   color: #ff8c00;
-    margin-top: 5px;
 }
 
 .paperlink img:hover {
