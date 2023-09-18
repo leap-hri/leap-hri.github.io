@@ -141,14 +141,14 @@ section.smaller {
   text-align: center;
   font-size: 16px;
   height: 10px;
-  margin-top: auto;
+  margin-top: 5px;
   margin-bottom: 5px;
 }
 
 .profpic .role {
   text-align: center;
   font-size: 16px;
-  height: 47px;
+  height: 60px;
   color: #ff8c00;
     margin-top: 5px;
 }
