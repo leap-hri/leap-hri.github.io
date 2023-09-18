@@ -141,9 +141,8 @@ section.smaller {
 .profpic .institution {
   text-align: center;
   font-size: 16px;
-  margin-top: 5px;
-  min-height: 35px; /* Height for 2 lines of text, adjust accordingly */
-  max-height: 35px;
+  min-height: 36px; /* Height for 2 lines of text, adjust accordingly */
+  max-height: 36px;
   overflow: hidden;
   text-overflow: ellipsis;
   display: -webkit-box;
