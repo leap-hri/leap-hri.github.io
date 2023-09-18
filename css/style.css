@@ -144,7 +144,6 @@ section.smaller {
   margin-top: 5px;
   min-height: 40px; /* Height for 2 lines of text, adjust accordingly */
   max-height: 40px;
-  line-height: 40px; /* Equal to the height, so single-line names are vertically centered */
   overflow: hidden;
   text-overflow: ellipsis;
   display: -webkit-box;
