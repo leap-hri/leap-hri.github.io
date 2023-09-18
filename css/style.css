@@ -128,6 +128,7 @@ section.smaller {
 .profpic .profname {
   text-align: center;
   font-size: 18px;
+  line-height: 20px;
   margin-top: 15px;
   margin-bottom: 5px;
   color: black;
@@ -140,12 +141,15 @@ section.smaller {
   text-align: center;
   font-size: 16px;
   margin-top: 5px;
+  line-height: 20px; /* Set to match height for vertical centering */
 }
 
 .profpic .role {
   text-align: center;
   font-size: 16px;
+  height: 20px;
   color: #ff8c00;
+  line-height: 20px; /* Set to match height for vertical centering */
 }
 
 .paperlink img:hover {
