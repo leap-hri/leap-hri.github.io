@@ -100,13 +100,6 @@ section.smaller {
 	width: 220px;
 }
 
-.profpic .role {
-  text-align: center;
-  font-size: 15px;
-  height: 60px;
-  color: #ff8c00;
-}
-
 .profpic {
   margin: auto;
   padding-bottom: 10px;
@@ -131,8 +124,6 @@ section.smaller {
 	  display: block;
 	  margin: auto;
 }
-
-
 
 .profpic .profname {
   text-align: center;
@@ -159,6 +150,7 @@ section.smaller {
   font-size: 16px;
   height: 47px;
   color: #ff8c00;
+    margin-top: 5px;
 }
 
 .paperlink img:hover {
