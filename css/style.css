@@ -505,3 +505,10 @@ li {
     color:  rgb(120,120,120);
     font-weight: normal
 }
+
+.video-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; /* Optionally adjust the height to your preference */
+}
